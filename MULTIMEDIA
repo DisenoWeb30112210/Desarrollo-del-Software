@@ -1,0 +1,39 @@
+<html>
+
+<header>
+	<div class="header">
+    	<figure>
+        <img src="/Users/easyway/Pictures/paginaweb/logounad.png" alt="Unad">
+       	</figure>
+  <title>Desarrollo del Software</title>
+</head>
+<body bgcolor#e8e8e8>
+<header>
+	
+
+<h2 aling=center><center> <font color=blue size=5 face=¨arial¨>INTRODUCCIÓN AL DESARROLO DEL SOFTWARE</font></h2></center>
+</header>
+<header>
+<h2 aling=center><center> <br><I> <font color=blue size=5 face=¨arial¨>MULTIMEDIA</font></h2></I></br></center>
+</header>
+
+<IMG SRC="diseo_software.jpg">
+<section>
+<p><font color=blue size=5 face=¨arial¨>ETAPAS DESARROLLO DEL SOFTWARE:</font> <font color=black size=4 face=¨arial¨> 
+	
+</font></section>
+
+<section>
+
+<embed src ="DESARROLO DE SOFWARE.mp4" width="400" heignt="300"
+
+<section>
+<p><font color=blue size=5 face=¨arial¨>MODELO DE CICLOS DE VIDA:</font> <font color=black size=4 face=¨arial¨> 
+	
+</font></section>
+
+<embed src ="MODELO DE CICLO DE VIDA.mp4" width="400" heignt="300"
+<section>
+
+
+</html>
